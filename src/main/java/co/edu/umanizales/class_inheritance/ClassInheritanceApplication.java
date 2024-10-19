@@ -10,4 +10,7 @@ public class ClassInheritanceApplication {
 		SpringApplication.run(ClassInheritanceApplication.class, args);
 	}
 
+
+	
+
 }
